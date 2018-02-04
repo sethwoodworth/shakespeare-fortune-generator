@@ -1,0 +1,3 @@
+[submodule "shakespeare-material"]
+	path = shakespeare-material
+	url = git@github.com:okfn/shakespeare-material.git
